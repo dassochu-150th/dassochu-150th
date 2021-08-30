@@ -297,7 +297,7 @@ a:hover {
 }
 
 .background-color {
-  background-color: rgba(9, 9, 102, 0.6);
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 /* main */
