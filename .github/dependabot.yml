@@ -4,13 +4,15 @@ updates:
 - package-ecosystem: npm
   directory: '/'
   schedule:
-    interval: daily
+    interval: weekly
+    day: sunday
     time: '00:00'
+    timezone: Asia/Tokyo
   open-pull-requests-limit: 10
   reviewers:
-    - dassochu2021
+    - dassochu-150th
   assignees:
-    - dassochu2021
+    - dassochu-150th
   commit-message:
     prefix: fix
     prefix-development: chore
@@ -19,13 +21,15 @@ updates:
 - package-ecosystem: github-actions
   directory: '/'
   schedule:
-    interval: daily
+    interval: weekly
+    day: sunday
     time: '00:00'
+    timezone: Asia/Tokyo
   open-pull-requests-limit: 10
   reviewers:
-    - dassochu2021
+    - dassochu-150th
   assignees:
-    - dassochu2021
+    - dassochu-150th
   commit-message:
     prefix: fix
     prefix-development: chore
