@@ -147,23 +147,23 @@
           </h2>
           <div class="photo">
             <div class="photo-div">
-              <img src="img/thumbnail/photo1.png" class="photo-img" />
+              <img src="img/thumbnail/Photo1.png" class="photo-img" />
             </div>
             <div class="photo-div">
-              <img src="img/thumbnail/photo2.png" class="photo-img" />
+              <img src="img/thumbnail/Photo2.png" class="photo-img" />
             </div>
             <div class="photo-div">
-              <img src="img/thumbnail/photo3.png" class="photo-img" />
+              <img src="img/thumbnail/Photo3.png" class="photo-img" />
             </div>
             <br />
             <div class="photo-div">
-              <img src="img/thumbnail/photo4.png" class="photo-img" />
+              <img src="img/thumbnail/Photo4.png" class="photo-img" />
             </div>
             <div class="photo-div">
-              <img src="img/thumbnail/photo5.png" class="photo-img" />
+              <img src="img/thumbnail/Photo5.png" class="photo-img" />
             </div>
             <div class="photo-div">
-              <img src="img/thumbnail/photo6.png" class="photo-img" />
+              <img src="img/thumbnail/Photo6.png" class="photo-img" />
             </div>
           </div>
           <div class="photo-others">
