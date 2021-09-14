@@ -1,4 +1,4 @@
-# dassochu-150th.github.io
+# dassochu-150th
 
 ## Build Setup
 
